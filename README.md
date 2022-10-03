@@ -33,4 +33,11 @@ Provide high-level responses to the following questions, then provide two additi
 
 There will be about **70,000 roles** that will need to be filled once the "silver tsunami" begins, there are not enough mentors available to mentor the next generation. With only about **1,900** eligibile mentors that means each mentor would need to 35 mentees in order to bring the next generation of employees up to speed. 
 
-The summary addresses the two questions and contains two additional queries or tables that may provide more insight. (5 pt)
+Some ways to possibly combat the drastic effects of the "silver tsunami" will be to mitigate employee retention for the remaining employees. This means that Pewlett Hackard will can allocate the some of the salary for raises or promotions of the current employees. Overall this will increase employee well-being and prevent any premature turnover. 
+
+ ![dept_salaries](https://github.com/vanessaneang/Pewlett-Hackard-Analysis/blob/main/dept_salaries.png)
+ 
+  ![current_emp_titles](https://github.com/vanessaneang/Pewlett-Hackard-Analysis/blob/main/current_emp_titles.png)
+
+
+
