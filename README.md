@@ -17,12 +17,16 @@ Provide a bulleted list with four major points from the two analysis deliverable
   * The largest job title that will be retiring in the new wave are Senior Engineers and Senior Staff employees accounting for about 66% of the employees that are set to retire.
   * Only 2 employees that hold the title Manager will be retiring, indicating that there are only a handful of managers for this company verus other employee titles (i.e. Assistant Engineer, Technique Leader, Staff etc.).
   
- ![retiring_titles](https://github.com/vanessaneang/Pewlett-HackardAnalysis/blob/main/retiring_titles.png)
+ ![retiring_titles](https://github.com/vanessaneang/Pewlett-Hackard-Analysis/blob/main/retiring_titles.png)
 
+
+ ![unique_titles](https://github.com/vanessaneang/Pewlett-Hackard-Analysis/blob/main/unique_titles.png)
 **2. The Employees Eligible for the Mentorship Program**
 
   * After filtering the data to retrieve employees whose birth dates are between January 1, 1965 and December 31, 1965 we have found that out of the 72,458 employees retiring 1,940 employees qualify to be a part of the Mentorship program.
-  
+
+
+ ![retiring_titles](https://github.com/vanessaneang/Pewlett-Hackard-Analysis/blob/main/retiring_titles.png)
 
 ## Summary: 
 Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
